@@ -1,0 +1,10 @@
+open (browser.get)https://area.mtg-bi.com/
+go (click button) on 'sign IN' tab
+enter (send key) 'mail'
+enter (send key) 'password'
+go (click button) sign IN
+go (click button) Profile information
+go (click button) update
+
+Если тестирование на работоспособность, то этого достаточно.
+Для тестирования правильности ввода в сами поля, отображения, видимости, ошибок/исключений при неккоретном введении данных потребуется еще на порядок больше тестов.
